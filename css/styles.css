@@ -1,0 +1,44 @@
+/*font-family: 'Lora', serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Alegreya', serif;
+font-family: 'Open Sans', sans-serif;*/
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Alegreya', serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+.links {
+  list-style-type: none;
+  padding-left: 0px;
+  line-height: 36px;
+}
+
+#nav {
+  padding-left: 20px;
+}
+
+img {
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
