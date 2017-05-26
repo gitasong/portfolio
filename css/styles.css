@@ -5,6 +5,7 @@ font-family: 'Open Sans', sans-serif;*/
 body {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
+  color: #333333;
   line-height: 24px;
 }
 
@@ -22,10 +23,25 @@ h2 {
 
 h3 {
   font-size: 30px;
+  color: #4d4d4d;
 }
 
 h4 {
   font-size: 24px;
+  color: #1d1d1d;
+}
+
+h5 {
+  font-size: 18px;
+  color: #7d7d7d;
+}
+
+.page {
+  color: #7d7d7d
+}
+
+.col-md-2.sidebar.well {
+  height: 100vh;
 }
 
 .links {
@@ -36,6 +52,16 @@ h4 {
 
 #nav {
   padding-left: 20px;
+}
+
+.col-md-4.projects {
+  margin-left: 40px;
+  padding: 0px 40px 40px 40px;
+}
+
+.col-md-8.projects {
+  max-width: 50%;
+  margin-left: 40px;
 }
 
 img {
